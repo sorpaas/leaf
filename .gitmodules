@@ -1,0 +1,9 @@
+[submodule "collenchyma"]
+	path = collenchyma
+	url = git@github.com:sorpaas/collenchyma.git
+[submodule "collenchyma-blas"]
+	path = collenchyma-blas
+	url = git@github.com:sorpaas/collenchyma-blas.git
+[submodule "collenchyma-nn"]
+	path = collenchyma-nn
+	url = git@github.com:sorpaas/collenchyma-nn.git
